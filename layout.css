@@ -46,7 +46,7 @@ div.section_divider img { border: 0px; margin: 0px 0px 0px 5px; }
 .mfp-img-mobile img { border: 0px; }
 div.portfolio_item { height: 375px; }
 div.portfolio_item:hover { opacity: 0.95; }
-div.portfolio_item h2 { margin-top: 10px; }
+div.portfolio_item h2 { margin-top: 0px; }
 div.portfolio_item:nth-of-type(2n+1) img { float: right; margin-top: 5px; margin-right: -20px; margin-left: 50px; }
 div.portfolio_item:nth-of-type(2n) img { float: left; margin-top: 0px; margin-left: -20px; margin-right: 50px; }
 .portfolio_back { float: left; width: 45px; height: 30px; background-image: url("img/back_arrow.png"); cursor: pointer; margin-right: 10px; }
